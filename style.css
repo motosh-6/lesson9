@@ -280,24 +280,24 @@ header{
 	float: left;
 	margin-bottom: 90px;
 }
+.contact-left-box{
+	width: 190px;
+	margin: 0 auto;
+}
 .mail-title{
 	margin-top: 30px;
 	font-size: 20px;
-	text-align: center;
 }
 .mail-text{
 	margin-top: 5px;
-	text-align: center;
 	text-decoration: underline;
 }
 .tell-title{
 	margin-top: 20px;
 	font-size: 20px;
-	text-align: center;
 }
 .tell-text{
 	margin-top: 5px;
-	text-align: center;
 	text-decoration: underline;
 }
 
@@ -466,5 +466,20 @@ footer{
 	.contact-right{
 		width: 100%;
 	}
-
+	.mail-title{
+		text-align: center;
+	}
+	.mail-text{
+		text-align: center;
+	}
+	.tell-title{
+		text-align: center;
+	}
+	.tell-text{
+		text-align: center;
+	}
+	.sns-title{
+		text-align: center;
+		margin-top: 0px;
+	}
 }
